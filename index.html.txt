@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Hollow's First Project</title>
+</head>
+<body>
+  <h1>Hello from Hollow</h1>
+  <p>Первый проект на GitHub - поехали !</p>
+</body>
+</html>
